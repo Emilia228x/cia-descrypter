@@ -10,3 +10,11 @@
    ```bash
    git clone https://github.com/ВАШ_НИКНЕЙМ/cia-decryptor.git
    cd cia-decryptor
+   
+## 🚀 Использование и аргументы
+
+Скрипт принимает два обязательных позиционных аргумента и два опциональных флага для указания ключей.
+
+### Синтаксис
+```bash
+python decrypt_cia.py <input> <output> [--boot9 PATH] [--movable PATH]
