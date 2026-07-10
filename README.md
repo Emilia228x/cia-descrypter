@@ -8,7 +8,7 @@
 1. Убедитесь, что у вас установлен Python 3.8+.
 2. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ВАШ_НИКНЕЙМ/cia-decryptor.git
+   git clone https://github.com/Emilia228x/cia-decryptor.git
    cd cia-decryptor
    
 ## 🚀 Использование и аргументы
