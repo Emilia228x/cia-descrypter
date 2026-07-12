@@ -24,8 +24,9 @@ The script takes two required positional arguments and two optional flags to spe
 ### Syntax
 ```bash
 python decrypt_cia.py <input> <output> [--boot9 PATH] [--movable PATH]
+### Syntax
 
-## ✨ CIA Decryptor
+##### ✨ CIA Decryptor
 #RU
 
 Лёгкий Python-скрипт для дешифрования `.cia` файлов Nintendo 3DS с использованием библиотеки [pyctr](https://github.com/ihaveamac/pyctr). 
