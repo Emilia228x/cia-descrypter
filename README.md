@@ -24,7 +24,6 @@ The script takes two required positional arguments and two optional flags to spe
 ### Syntax
 ```bash
 python decrypt_cia.py <input> <output> [--boot9 PATH] [--movable PATH]
-### Syntax
 
 ##### ✨ CIA Decryptor
 #RU
