@@ -1,6 +1,6 @@
 # ✨ CIA Decryptor / Дешифратор CIA
 
-**[English](#english)** | **[Русский](#русский)**
+**[English](README.md)** | **[Русский](README_RU.md)**
 
 ---
 
